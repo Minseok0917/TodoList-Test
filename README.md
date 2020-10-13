@@ -4,6 +4,7 @@
 - 순수 JS 로만 만들어야한다.
 - 함수지향프로그래밍으로 짜야한다. 
 - Function 안에 this를 꼭 써야한다.
+- 주석 필수 
 
 ### Form 
 - Enter SpaceBar Tab 를 누를 시 현재 Input 창에 내용은 지워지고 TodoList에 추가 되야한다. 
